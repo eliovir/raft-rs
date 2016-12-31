@@ -99,4 +99,4 @@ For something more terse use `cargo test`.
 
 **First timer with Git?** Check [this](https://github.com/hoverbear/rust-rosetta#contributing-1) out for some help!!
 
-We use [Homu](http://homu.io/q/Hoverbear/raft) for merging requests. **This means we cannot merge your code unless it passes tests!**
+We use [Homu](http://homu.io/q/Hoverbear/raft-rs) for merging requests. **This means we cannot merge your code unless it passes tests!**
